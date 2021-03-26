@@ -1,0 +1,3 @@
+# babelConfig
+
+npm start
